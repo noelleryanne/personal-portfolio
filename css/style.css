@@ -13,3 +13,8 @@ a:hover {
   color: #a88383;
   text-decoration: none;
 }
+/* ----------- Hero ----------- */
+#hero {
+  background-color: #f5dfdf;
+  text-align: center;
+}
