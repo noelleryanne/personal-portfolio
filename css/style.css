@@ -1,0 +1,15 @@
+/* ----------- Navigation ----------- */
+.nav-icon {
+  height: 50px;
+  margin: 15px;
+}
+.nav-border {
+  border-bottom: 2px solid #a88383;
+}
+a {
+  color: #343434;
+}
+a:hover {
+  color: #a88383;
+  text-decoration: none;
+}
