@@ -8,6 +8,7 @@
 }
 a {
   color: #343434;
+  font-family: Lato;
 }
 a:hover {
   color: #a88383;
@@ -17,4 +18,6 @@ a:hover {
 #hero {
   background-color: #f5dfdf;
   text-align: center;
+  padding-top: 50px;
+  padding-bottom: 50px;
 }
