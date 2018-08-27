@@ -8,7 +8,7 @@
 }
 a {
   color: #343434;
-  font-family: Lato;
+  font-family: lato, sans-serif;
 }
 a:hover {
   color: #a88383;
@@ -20,4 +20,22 @@ a:hover {
   text-align: center;
   padding-top: 50px;
   padding-bottom: 50px;
+}
+h1 {
+  font-family: Martel, sans;
+}
+h4 {
+  font-family: lato, sans-serif;
+}
+/* ----------- Portfolio ----------- */
+p.header {
+  font-family: lato, sans-serif;
+}
+#portfolio {
+  max-height: 350px;
+}
+img {
+  max-height:350px;
+  max-width: 500px;
+  display: inline-flex;
 }
