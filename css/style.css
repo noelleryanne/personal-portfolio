@@ -32,10 +32,11 @@ p.header {
   font-family: lato, sans-serif;
 }
 #portfolio {
-  max-height: 350px;
+  max-height: 245px;
+  padding: 50px;
 }
-img {
-  max-height:350px;
-  max-width: 500px;
+.portfolio-img {
+  max-height: 245px;
+  max-width: 350px;
   display: inline-flex;
 }
