@@ -6,13 +6,13 @@
 .nav-style {
   border-bottom: 2px solid #a88383;
 }
-a {
-  color: #343434;
-  font-family: lato, sans-serif;
+a li{
+  color: #343434 !important;
+  font-family: lato, sans-serif !important;
 }
-a:hover {
-  color: #a88383;
-  text-decoration: none;
+a:hover li:hover{
+  color: #a88383 !important;
+  text-decoration: none !important;
 }
 /* ----------- Hero ----------- */
 #hero {
@@ -26,6 +26,15 @@ h1 {
 }
 h4 {
   font-family: lato, sans-serif;
+}
+.fab {
+  font-size: 35px;
+  padding: 10px;
+  margin: 5px;
+  color: #775151 !important;
+}
+.hero-social-media {
+  margin: auto;
 }
 /* ----------- Portfolio ----------- */
 p.header {
