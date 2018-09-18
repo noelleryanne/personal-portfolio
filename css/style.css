@@ -6,13 +6,13 @@
 .nav-style {
   border-bottom: 2px solid #a88383;
 }
-a li{
-  color: #343434;
-  font-family: lato, sans-serif;
+.nav-link{
+  color: #343434 !important;
+  font-family: lato, sans-serif !important;
 }
-a:hover li:hover{
-  color: #a88383;
-  text-decoration: none;
+.nav-link:hover{
+  color: #a88383 !important;
+  text-decoration: none !important;
 }
 /* ----------- Hero ----------- */
 #hero {
