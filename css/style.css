@@ -23,6 +23,8 @@ a:hover li:hover{
 }
 h1 {
   font-family: Martel, serif;
+  margin: auto;
+  padding: 10px;
 }
 h4 {
   font-family: lato, sans-serif;
@@ -40,15 +42,16 @@ a.fab:hover {
   margin: auto;
 }
 /* ----------- Portfolio ----------- */
-p.header {
-  font-family: lato, sans-serif;
-}
 #portfolio {
+  text-align: center;
   max-height: 245px;
-  padding: 50px;
+  padding: 25px;
 }
 .portfolio-img {
   max-height: 245px;
   max-width: 350px;
   display: inline-flex;
+}
+.card {
+  border: none !important;
 }
