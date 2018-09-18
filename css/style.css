@@ -7,12 +7,12 @@
   border-bottom: 2px solid #a88383;
 }
 a li{
-  color: #343434 !important;
-  font-family: lato, sans-serif !important;
+  color: #343434;
+  font-family: lato, sans-serif;
 }
 a:hover li:hover{
-  color: #a88383 !important;
-  text-decoration: none !important;
+  color: #a88383;
+  text-decoration: none;
 }
 /* ----------- Hero ----------- */
 #hero {
@@ -22,7 +22,7 @@ a:hover li:hover{
   padding-bottom: 50px;
 }
 h1 {
-  font-family: Martel, sans;
+  font-family: Martel, serif;
 }
 h4 {
   font-family: lato, sans-serif;
@@ -32,6 +32,9 @@ h4 {
   padding: 10px;
   margin: 5px;
   color: #775151 !important;
+}
+a.fab:hover {
+  color: #a88383;
 }
 .hero-social-media {
   margin: auto;
